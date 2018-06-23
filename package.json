@@ -1,7 +1,7 @@
 {
   "name": "ui-grid",
   "version": "4.2.4",
-  "description": "A data grid for Angular UI GRID",
+  "description": "A data grid for Angular UI GRID - 1",
   "directories": {
     "test": "test"
   },
